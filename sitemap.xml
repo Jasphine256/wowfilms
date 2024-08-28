@@ -27,7 +27,7 @@
 
   <!-- Contact Page -->
   <url>
-    <loc>https://www.wowfilmsug.com/contacts-coach.html</loc>
+    <loc>https://www.wowfilmsug.com/contacts.html</loc>
     <lastmod>2024-08-28</lastmod>
     <changefreq>never</changefreq>
     <priority>0.64</priority>
@@ -49,5 +49,12 @@
     <priority>0.64</priority>
   </url>
 
+<!-- about Page -->
+  <url>
+    <loc>https://www.wowfilmsug.com/about-coach.html</loc>
+    <lastmod>2024-08-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.64</priority>
+  </url>
 
 </urlset>
