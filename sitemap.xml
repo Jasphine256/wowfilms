@@ -14,26 +14,31 @@
     <loc>https://www.wowfilmsug.com/about</loc>
     <lastmod>2024-08-28</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.80</priority>
+    <priority>1.00</priority>
   </url>
 
   <!-- Services Page -->
   <url>
     <loc>https://www.wowfilmsug.com/movie</loc>
     <lastmod>2024-08-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.80</priority>
+    <changefreq>never</changefreq>
+    <priority>1.00</priority>
   </url>
 
   <!-- Contact Page -->
   <url>
-    <loc>https://www.wowfilmsug.com/contact</loc>
+    <loc>https://www.wowfilmsug.com/contacts</loc>
     <lastmod>2024-08-28</lastmod>
-    <changefreq>yearly</changefreq>
+    <changefreq>never</changefreq>
     <priority>0.64</priority>
   </url>
 
-  <!-- Additional URLs -->
-  <!-- Repeat the pattern above for any additional pages you have -->
+  <!-- behind scenes Page -->
+  <url>
+    <loc>https://www.wowfilmsug.com/behind-scenes</loc>
+    <lastmod>2024-08-28</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.64</priority>
+  </url>
 
 </urlset>
