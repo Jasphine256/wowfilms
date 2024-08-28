@@ -11,15 +11,15 @@
 
   <!-- About Page -->
   <url>
-    <loc>https://www.wowfilmsug.com/about</loc>
+    <loc>https://www.wowfilmsug.com/donate.html</loc>
     <lastmod>2024-08-28</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>1.00</priority>
+    <priority>0.80</priority>
   </url>
 
   <!-- Services Page -->
   <url>
-    <loc>https://www.wowfilmsug.com/movie</loc>
+    <loc>https://www.wowfilmsug.com/movie.html</loc>
     <lastmod>2024-08-28</lastmod>
     <changefreq>never</changefreq>
     <priority>1.00</priority>
@@ -27,7 +27,7 @@
 
   <!-- Contact Page -->
   <url>
-    <loc>https://www.wowfilmsug.com/contacts</loc>
+    <loc>https://www.wowfilmsug.com/contacts-coach.html</loc>
     <lastmod>2024-08-28</lastmod>
     <changefreq>never</changefreq>
     <priority>0.64</priority>
@@ -35,10 +35,19 @@
 
   <!-- behind scenes Page -->
   <url>
-    <loc>https://www.wowfilmsug.com/behind-scenes</loc>
+    <loc>https://www.wowfilmsug.com/behind-scenes.html</loc>
     <lastmod>2024-08-28</lastmod>
     <changefreq>never</changefreq>
     <priority>0.64</priority>
   </url>
+
+<!-- typography Page -->
+  <url>
+    <loc>https://www.wowfilmsug.com/typography.html</loc>
+    <lastmod>2024-08-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.64</priority>
+  </url>
+
 
 </urlset>
